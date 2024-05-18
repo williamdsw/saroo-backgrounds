@@ -23,7 +23,7 @@ SS_SAVE.BIN(file)
 ssfirm.bin (file)
 </pre>
 
-![](Images/example1.png)
+![](images/example1.png)
 
 ### How to generate my own background image and sound
 
@@ -32,22 +32,29 @@ TODO
 ### Content
 
 [Spawn - HBO Animation](downloads/others/spawn-hbo-animation.7z)
+
 ![](gifs/spawn-hbo-animation.gif)
 
 [Snatcher](downloads/others/snatcher.7z)
+
 ![](gifs/snatcher.gif)
 
 [Road Rash](downloads/others/road-rash.7z)
+
 ![](gifs/road-rash.gif)
 
 [Junker HQ](downloads/others/junker-hq.7z)
+
 ![](gifs/junker-hq.gif)
 
 [Clean](downloads/others/clean.7z)
+
 ![](gifs/clean.gif)
 
 [Space](downloads/others/space.7z)
+
 ![](gifs/space.gif)
 
 [Clean](downloads/others/xmen.7z)
+
 ![](gifs/xmen.gif)
