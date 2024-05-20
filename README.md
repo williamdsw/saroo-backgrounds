@@ -55,6 +55,22 @@ TODO
 
 ![](gifs/space.gif)
 
-[Clean](downloads/others/xmen.7z)
+[X-Men](downloads/others/xmen.7z)
 
 ![](gifs/xmen.gif)
+
+[Mega Man X](downloads/megaman/megaman-x.7z)
+
+![](gifs/megaman-x.gif)
+
+[Mega Man](downloads/megaman/megaman.7z)
+
+![](gifs/megaman.gif)
+
+[NiGHTS Into Dreams...](downloads/others/nights-into-dreams.7z)
+
+![](gifs/nights-into-dreams.gif)
+
+[SEGA](downloads/others/sega.7z)
+
+![](gifs/sega.gif)
