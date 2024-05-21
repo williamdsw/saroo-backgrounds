@@ -31,7 +31,7 @@ TODO
 
 ### Content
 
-[Spawn - HBO Animation](downloads/others/spawn-hbo-animation.7z)
+[Spawn - HBO Animation](downloads/others/spawn-hbo-animation.7z "download")
 
 ![](gifs/spawn-hbo-animation.gif)
 
