@@ -33,6 +33,8 @@ TODO
 
 [Spawn - HBO Animation](downloads/others/spawn-hbo-animation.7z "download")
 
+<a href="downloads/others/spawn-hbo-animation.7z" title="Download" download>Spawn - HBO Animation</a>
+
 ![](gifs/spawn-hbo-animation.gif)
 
 [Snatcher](downloads/others/snatcher.7z)
