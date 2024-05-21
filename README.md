@@ -33,7 +33,7 @@ TODO
 
 [Spawn - HBO Animation](https://github.com/williamdsw/saroo-backgrounds/blob/master/downloads/others/spawn-hbo-animation.7z "download")
 
-<a href="[downloads/others/spawn-hbo-animation.7z](https://github.com/williamdsw/saroo-backgrounds/blob/master/downloads/others/spawn-hbo-animation.7z)" title="Download" download>Spawn - HBO Animation</a>
+<a href="https://github.com/williamdsw/saroo-backgrounds/blob/master/downloads/others/spawn-hbo-animation.7z" title="Download" download>Spawn - HBO Animation</a>
 
 ![](gifs/spawn-hbo-animation.gif)
 
