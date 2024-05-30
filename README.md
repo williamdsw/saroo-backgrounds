@@ -75,10 +75,22 @@ TODO
 
 ![](gifs/nights-into-dreams.gif)
 
-[SEGA (Image)](downloads/others/sega.7z)
+[Panzer Dragoon (Image)](downloads/others/panzer_dragoon.7z)
+
+![](gifs/panzer-dragoon.gif)
+
+[SEGA Logo (Image)](downloads/others/sega.7z)
 
 ![](gifs/sega.gif)
 
-[SEGA Bubbles (Image)](downloads/others/sega-bubbles.7z)
+[SEGA Logo Bubbles (Image)](downloads/others/sega-bubbles.7z)
 
 ![](gifs/sega-bubbles.gif)
+
+[SEGA Logo on Sonic 3D Blast (Image)](downloads/others/sega-sonic-3d.7z)
+
+![](gifs/sega-sonic-3d.gif)
+
+[SEGA Saturn (Image)](downloads/others/sega-saturn.7z)
+
+![](gifs/sega-saturn.gif)
